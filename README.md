@@ -15,7 +15,7 @@
 
 <br/>
 
-## 일하는 방식
+## How I Work
 
 |No|Action|Description|
 | :---: | :--- | :--- |
@@ -25,7 +25,7 @@
 
 <br/>
 
-## 정량적 결과
+## Quantitative Results
 
 | What | How | Result |
 | :--- | :--- | :--- |
