@@ -5,9 +5,8 @@
 ### 가치와 효율을 찾아내는 **서비스 기획자**
 
 <p>
-  <a href="mailto:play0414@naver.com"><img src="https://img.shields.io/badge/play0414@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/광주광역시-4A5568?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/서비스기획%20·%20사업기획-2B6CB0?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/광주광역시-4A5568?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 **요청의 표면이 아니라 그 아래의 운영 실태를 먼저 확인합니다.**<br/>
@@ -79,6 +78,7 @@
 
 | 기간 | 프로젝트 | 무엇을 풀었나 | 역할 | 링크 |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026.04 ~ 2026.09 | **동아리 모집·면접 운영 시스템** | 단체채팅에 흩어져 있던 대기 호출·면접실 배정·점수 취합을 단일 시스템으로 통합. 평가자 상호 비공개 + 면접관별 표준편차 보정으로 심사 신뢰도 확보 | 기획 총괄 · 구현 | `Private` |
 | 2026.04 ~ 2026.06 | **교육 운영 자동화 대시보드** | 수작업 포스터 제작과 구글폼 신청 처리를, AI 생성 + 승인 워크플로우 파이프라인으로 자동화 | 기획 · 구현 | [Repo](https://github.com/Paaaaang/dashboard_junK-HP) |
 | 2026.03 ~ 2026.06 | **Weekend Planner** | 주말 여행·모임 일정을 한 링크로 공유하고 함께 편집 | 기획 · 구현 | [Repo](https://github.com/Paaaaang/eventPlanner) · [Demo](https://weekend-planner-2026.vercel.app) |
 | 2026.02 | **Wiz-Band** | 단일 센서 임계치 경보의 사각지대를, 생체+환경 복합 위험도 엔진으로 사전 예측 전환 | PM · Full-stack | [Repo](https://github.com/Paaaaang/wiz-band) · [Demo](https://wiz-band.vercel.app) |
