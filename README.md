@@ -79,7 +79,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 2026.04 ~ 2026.09 | **동아리 모집·면접 운영 시스템** | 단체채팅에 흩어져 있던 대기 호출·면접실 배정·점수 취합을 단일 시스템으로 통합. 평가자 상호 비공개 + 면접관별 표준편차 보정으로 심사 신뢰도 확보 | 기획 총괄 · 구현 | `Private` · [Link](https://www.jeondaejuju.com/)|
 | 2026.04 ~ 2026.06 | **교육 운영 자동화 대시보드** | 수작업 포스터 제작과 구글폼 신청 처리를, AI 생성 + 승인 워크플로우 파이프라인으로 자동화 | 기획 · 구현 | [Repo](https://github.com/Paaaaang/dashboard_junK-HP) |
-| 2026.03 ~ 2026.06 | **Plan-it** | 여행·모임 일정 공지를 링크 하나로 공유 | 기획 · 구현 | [Repo](https://github.com/Paaaaang/plan-it) · [Link](https://plan.it) |
+| 2026.03 ~ 2026.06 | **Plan-it** | 여행·모임 일정 공지를 링크 하나로 공유 | 기획 · 구현 | [Repo](https://github.com/Paaaaang/plan-it) · [Link](https://plan.it.kr) |
 | 2025.12 ~ 2026.01 | **TTM (Tap To Me)** | 1인 가구의 영양 불균형을 `가입-촬영-분석-코칭` 4단계 흐름으로 구조화 | 프로젝트 총괄 · Backend | [Repo](https://github.com/Paaaaang/TTM) |
 
 **그 외 기획 프로젝트**
