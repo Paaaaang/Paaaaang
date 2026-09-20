@@ -6,7 +6,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/서비스기획%20·%20사업기획-2B6CB0?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/광주광역시-4A5568?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 **요청의 표면이 아니라 그 아래의 운영 실태를 먼저 확인합니다.**<br/>
