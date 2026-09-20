@@ -59,7 +59,10 @@
 
 **프로토타이핑** — 기획안을 직접 만들어 검증하기 위한 도구
 
-![AI Agent](https://img.shields.io/badge/AI%20Agent-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT%20·%20OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
