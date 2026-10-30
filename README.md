@@ -11,7 +11,7 @@
 **요청의 표면이 아니라 그 아래의 운영 실태를 먼저 확인합니다.**<br/>
 문제를 정의한 뒤 구조로 만들고, 결과를 숫자로 검증합니다.
 
-<p src="paaaaang.github.io/">Portfolio</p>
+<p src="https://paaaaang.github.io">Portfolio</p>
 
 
 </div>
